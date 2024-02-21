@@ -1,2 +1,2 @@
-# building-energy-performance
-Model estimation of building energy performance
+# buildings-energy-performance
+Model estimation of buildings energy performance
